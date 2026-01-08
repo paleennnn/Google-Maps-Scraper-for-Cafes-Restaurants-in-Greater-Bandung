@@ -103,11 +103,11 @@ python main.py
 
 ### 🖥️ Example Output
 ```
-[LOADING] Membuka Google Maps untuk: Cafe di Andir Bandung...
+[LOADING] Membuka Google Maps untuk: Cafe di Antapani Bandung...
 [SCROLL] Attempt 1: Ditemukan 15 items unik
 [EXTRACTED] (1/15) Nama Cafe Pertama
 [SUCCESS] Ditemukan 10 merchant
-✓ File final disimpan: data_di_andir.xlsx
+✓ File final disimpan: data_di_antapani.xlsx
 ```
 
 ---
@@ -146,7 +146,7 @@ bandung-scraper/
 ├── .gitignore
 ├── error.log
 └── data/
-    ├── data_di_andir.csv
+    ├── data_di_antapani.csv
     ├── data_di_batujajar.csv
     └── data_di_cimahi_selatan.csv
 ```
