@@ -55,8 +55,8 @@ Ideal for **business analysis**, **academic research**, and **data collection pr
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/google-maps-bandung-scraper.git
-cd google-maps-bandung-scraper
+git clone https://github.com/paleennnn/Google-Maps-Scraper-for-Cafes-Restaurants-in-Greater-Bandung.git
+cd Google-Maps-Scraper-for-Cafes-Restaurants-in-Greater-Bandung
 ```
 
 ### 2️⃣ Create Virtual Environment (Recommended)
